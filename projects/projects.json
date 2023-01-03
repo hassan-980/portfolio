@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Calculator",
+    "desc": "A Calculator website built by using basic HTML , CSS , JAVASCRIPT ",
+    "image": "calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  ,
+  {
+    "name": "QR Generator",
+    "desc": "A QR Generator website built by using basic HTML , CSS , JAVASCRIPT ",
+    "image": "qr-generator",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
