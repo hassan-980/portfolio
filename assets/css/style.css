@@ -191,9 +191,7 @@ header .navbar ul li a:hover {
   align-items: center;
 }
 .home #particles-js {
-  
   background: url(/assets/images/star-bg.jpg) no-repeat;
-
   position: absolute;
   top: 0;
   left: 0;
@@ -230,7 +228,7 @@ header .navbar ul li a:hover {
 .home .content h2 {
   font-size: 5rem;
   font-weight: 800;
-  color: rgb(0, 2, 91);
+  color: rgb(255, 255, 255);
 }
 .home .content h2 span {
   font-size: 5rem;
@@ -238,7 +236,7 @@ header .navbar ul li a:hover {
   color: #fdc53a;
 }
 .home .content p {
-  color: black;
+  color: rgb(255, 255, 255);
   font-size: 2.5rem;
   /* color: #000; */
   font-weight: 600;
