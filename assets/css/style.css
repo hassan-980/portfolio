@@ -192,7 +192,7 @@ header .navbar ul li a:hover {
 }
 .home #particles-js {
   
-  /* background: url(/assets/images/star-bg.jpg) no-repeat; */
+  background: url(/assets/images/star-bg.jpg) no-repeat;
 
   position: absolute;
   top: 0;
