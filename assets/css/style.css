@@ -237,6 +237,7 @@ header .navbar ul li a:hover {
 }
 .home .content p {
   color: rgb(255, 255, 255);
+
   font-size: 2.5rem;
   /* color: #000; */
   font-weight: 600;
@@ -244,7 +245,8 @@ header .navbar ul li a:hover {
 }
 .home .content p span {
   font-size: 2.5rem;
-  color: rgb(255, 0, 0);
+  /* color: rgb(255, 0, 0); */
+  color: rgb(0 255 137);
   font-weight: 600;
   padding: 1rem 0;
 }
