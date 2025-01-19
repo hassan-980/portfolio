@@ -1222,6 +1222,10 @@ form .button-area {
   section {
     padding: 2rem;
   }
+
+  .home .content h2 {
+    padding-top: 50px;
+}
 }
 /* common media queries ends*/
 
